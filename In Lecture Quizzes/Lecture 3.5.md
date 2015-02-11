@@ -4,7 +4,7 @@ Quiz
 Question
 --------  
 Given the FP-tree, and min_sup = 2, which of following itemsets are frequent? Check all that apply.  
-![alt text](https://github.com/UtkarshPathrabe/Computer-Programming-BITS-Pilani/blob/master/Weekly%20Quizzes/Quiz0202.png "Mask")  
+![alt text](https://github.com/UtkarshPathrabe/Pattern-Discovery-In-Data-Mining/blob/master/In%20Lecture%20Quizzes/Lecture%203.5.png "Mask")  
 
 ### Answer  
 * {b, c}  
