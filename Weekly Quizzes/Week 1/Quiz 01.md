@@ -45,16 +45,16 @@ A strong association rule satisfies both the minsup and minconf thresholds. Give
 6  
 
 ### Explanation  
-* Frequent itemsets: minsup = 50%  
-1. Freq. 1-itemsets: Beer: 4, Nuts: 4, Diaper: 4, Eggs: 3  
-2. Freq. 2-itemsets: {Beer, Diaper}: 3
-* Association rules: minconf = 50%  
-1. Beer => Diaper (60%, 75%)  
-2. Diaper => Beer (60%, 75%)  
-3. Beer => Nuts (60%, 75%)  
-4. Nuts => Beer (60%, 75%)  
-5. Diaper => Nuts (60%, 75%)  
-6. Nuts => Diaper (60%, 75%)  
+Frequent itemsets: minsup = 50%  
+Freq. 1-itemsets: Beer: 4, Nuts: 4, Diaper: 4, Eggs: 3  
+Freq. 2-itemsets: {Beer, Diaper}: 3
+Association rules: minconf = 50%  
+Beer => Diaper (60%, 75%)  
+Diaper => Beer (60%, 75%)  
+Beer => Nuts (60%, 75%)  
+Nuts => Beer (60%, 75%)  
+Diaper => Nuts (60%, 75%)  
+Nuts => Diaper (60%, 75%)  
 
 Question 04
 -----------  
