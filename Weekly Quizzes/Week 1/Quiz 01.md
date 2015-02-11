@@ -56,4 +56,31 @@ A strong association rule satisfies both the minsup and minconf thresholds. Give
 5. Diaper => Nuts (60%, 75%)  
 6. Nuts => Diaper (60%, 75%)  
 
-Question 
+Question 04
+-----------  
+|Tid|    <b>Items bought</b>         |
+|:-:|:------------------------------:|
+| 10|              Beer, Nuts, Diaper|
+| 20|      Beer, Coffee, Diaper, Nuts|
+| 30|              Beer, Diaper, Eggs|
+| 40|          Beer, Nuts, Eggs, Milk|
+| 50|Nuts, Coffee, Diaper, Eggs, Milk|  
+Table 1: Transactions from a database.  
+
+Given the transactions in Table 1, minsup s = 50%, and minconf c = 50%, which of the following is an association rule? Select all that apply.  
+
+### Answer  
+* Beer => Nuts  
+* Nuts => Diaper  
+
+### Explanation  
+*Frequent itemsets: minsup = 50%  
+1. Freq. 1-itemsets: Beer: 4, Nuts: 4, Diaper: 4, Eggs: 3  
+2. Freq. 2-itemsets: {Beer, Diaper}: 3
+* Association rules: minconf = 50%  
+1. Beer => Diaper (60%, 75%)  
+2. Diaper => Beer (60%, 75%)  
+3. Beer => Nuts (60%, 75%)  
+4. Nuts => Beer (60%, 75%)  
+5. Diaper => Nuts (60%, 75%)  
+6. Nuts => Diaper (60%, 75%)  
