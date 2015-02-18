@@ -5,10 +5,7 @@ Question
 --------  
 Suppose we have the transaction history of Apple(A) and Banana(B) from a grocery store, as shown in the table with the expected number in parenthesis.  
 Which of the following statements is correct?  
-|   |        A |         !A |
-|:-:|:--------:|:----------:|
-| B |  `50(57)`|`200(192)`  |
-|!B |`750(742)`|`2500(2507)`|  
+![Contingency Table](https://github.com/UtkarshPathrabe/Pattern-Discovery-In-Data-Mining/blob/master/In%20Lecture%20Quizzes/Lecture%204.2.png "Contingency Table")  
 
 ### Answer  
 Lift < 1; Psi square > 0;  

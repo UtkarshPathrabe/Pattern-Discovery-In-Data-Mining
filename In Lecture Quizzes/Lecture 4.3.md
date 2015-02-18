@@ -6,10 +6,7 @@ Question
 
 DBLP is a computer science bibliography database. Suppose we want to study the correlation between authors Jure Leskovec (JL) and Hector Garcia-Molina (HG) based on their co-authorship, which is shown in the table.  
 Which of the following measures might be appropriate? Check all that apply.  
-|    |  JL|  !JL|
-|:--:|:--:|:---:|
-|  HG| 1  |  430|
-| !HG|133 |2.7e6|  
+![Contingency Table](https://github.com/UtkarshPathrabe/Pattern-Discovery-In-Data-Mining/blob/master/In%20Lecture%20Quizzes/Lecture%204.3.png "Contingency Table")  
 
 ### Answer  
 * Cosine  
