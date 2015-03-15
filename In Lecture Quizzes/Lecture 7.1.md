@@ -5,10 +5,10 @@ Question
 --------  
 |SID|    <b>Sequence</b>             |
 |:-:|:------------------------------:|
-| 10|             <a(abc)(ac)d(cf)>  |
-| 20|      <(ad)c(bc)(ae)>           |
-| 30|              <(ef)(ab)(df)cb>  |
-| 40|          <eg(af)cbc>           |  
+| 10|         `<a(abc)(ac)d(cf)>`    |
+| 20|      `<(ad)c(bc)(ae)>`         |
+| 30|       `<(ef)(ab)(df)cb>`       |
+| 40|          `<eg(af)cbc>`         |  
 Table 1: Transactions from a database.  
 For the given sequence database, which of the following is not a subsequence of any sequences in the database?  
 * `<accc>`  
