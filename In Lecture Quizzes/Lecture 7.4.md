@@ -21,8 +21,8 @@ For the given sequence database, which of the following belongs to the <f>-proje
 
 ### Explanation  
 All the sequences in the database will be represented as follows in the <f>-projected database.  
-* SID-10: <>  
-* SID-20: <>  
+* SID-10: `<>`  
+* SID-20: `<>`  
 * SID-30: `<(ab)(df)cb>`  
 * SID-40: `<cbc>`  
 
