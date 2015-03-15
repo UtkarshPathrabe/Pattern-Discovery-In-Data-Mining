@@ -3,7 +3,7 @@ Quiz 02
 
 Question 01
 -----------  
-Suppose a school collected some data on students' preference for hot dogs(HD) vs. hamburgers(HM). We have the following 2�2 contingency table summarizing the statistics. If lift is used to measure the correlation between HD and HM, what is the value for lift(HD, HM)?  
+Suppose a school collected some data on students' preference for hot dogs(HD) vs. hamburgers(HM). We have the following 2×2 contingency table summarizing the statistics. If lift is used to measure the correlation between HD and HM, what is the value for lift(HD, HM)?  
 ![Fig 1](https://github.com/UtkarshPathrabe/Pattern-Discovery-In-Data-Mining/blob/master/Weekly%20Quizzes/Week%202/Fig01.png "Fig 1")  
 
 #### Answer  
@@ -13,7 +13,7 @@ Suppose a school collected some data on students' preference for hot dogs(HD) vs
 
 Question 02
 -----------  
-Suppose Coursera collected statistics on the number of students who take courses on data mining (DM) and machine learning (ML). We have the following 2�2 contingency table summarizing the statistics. If ??? is used to measure the correlation between DM and ML, what is the ??? score?  
+Suppose Coursera collected statistics on the number of students who take courses on data mining (DM) and machine learning (ML). We have the following 2×2 contingency table summarizing the statistics. If χ2 is used to measure the correlation between DM and ML, what is the χ2 score?  
 ![Fig 3](https://github.com/UtkarshPathrabe/Pattern-Discovery-In-Data-Mining/blob/master/Weekly%20Quizzes/Week%202/Fig03.png "Fig 3")  
 
 #### Answer  
@@ -43,16 +43,16 @@ Question 05
 -----------  
 Suppose we are interested in analyzing the transaction history of several supermarkets with respect to purchase of apples(A) and bananas(B). We have the following table summarizing the transactions.  
 ![Fig 9](https://github.com/UtkarshPathrabe/Pattern-Discovery-In-Data-Mining/blob/master/Weekly%20Quizzes/Week%202/Fig09.png "Fig 9")  
-Denote li as the lift measure and ki as the Kulcyzynski measure for supermarket Si (i = 1, 2). Which of the following is correct?  
+Denote li as the lift measure and ki as the Kulcyzynski measure for supermarket Si(i = 1, 2). Which of the following is correct?  
 
 #### Answer  
-l1 != l2, k1 = k2  
+l1 ≠ l2, k1 = k2  
 
 ![Fig 10](https://github.com/UtkarshPathrabe/Pattern-Discovery-In-Data-Mining/blob/master/Weekly%20Quizzes/Week%202/Fig10.png "Fig 10")  
 
 Question 06
 -----------  
-A store had 100,000 total transactions in Q4 2014. 10,000 transactions contained eggs, while 5,000 contained bacon. 2000 transactions contained both eggs and bacon. Which of the following choices for the value of ?? is the smallest such that {eggs, bacon} is considered a negative pattern under the null-invariant definition?  
+A store had 100,000 total transactions in Q4 2014. 10,000 transactions contained eggs, while 5,000 contained bacon. 2000 transactions contained both eggs and bacon. Which of the following choices for the value of ε is the smallest such that {eggs, bacon} is considered a negative pattern under the null-invariant definition?  
 
 #### Answer  
 0.5  
@@ -62,7 +62,7 @@ A store had 100,000 total transactions in Q4 2014. 10,000 transactions contained
 Question 07
 -----------  
 ![Fig 12](https://github.com/UtkarshPathrabe/Pattern-Discovery-In-Data-Mining/blob/master/Weekly%20Quizzes/Week%202/Fig12.png "Fig 12")  
-Given the itemsets in Table 1, which of the following patterns are in the ??-cluster containing the pattern {A, C, E, S} for ?? = 0.0001?  
+Given the itemsets in Table 1, which of the following patterns are in the δ-cluster containing the pattern {A, C, E, S} for δ = 0.0001?  
 
 #### Answer  
 {F, A, C, E, S}  
