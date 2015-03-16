@@ -11,11 +11,11 @@ Given a sequence database, as shown in Table 2, with support threshold min-sup =
 
 Question 02
 -----------  
-Given a sequence database, as shown in Table 4, and the support threshold min-sup = 3, use Generalized Sequential Patterns (GSP) to find the frequent sequential patterns. After scanning the database once, how many length-2 candidate sequences will be generated after Apriori pruning? How many length-2 candidate sequences will be generated if not using Apriori pruning?  
+Given a sequence database, as shown in Table 5, and support threshold min-sup = 4, use Generalized Sequential Patterns (GSP) to find the frequent sequential patterns. After scanning the database once, how many length-2 candidate sequences will be generated after Apriori pruning? How many length-2 candidate sequences will be generated if not using Apriori pruning?  
 ![Fig 3](https://github.com/UtkarshPathrabe/Pattern-Discovery-In-Data-Mining/blob/master/Weekly%20Quizzes/Week%203/Fig03.png "Fig 3")  
 
 #### Answer  
-35; 92  
+22; 51  
 
 ![Fig 4](https://github.com/UtkarshPathrabe/Pattern-Discovery-In-Data-Mining/blob/master/Weekly%20Quizzes/Week%203/Fig04.png "Fig 4")  
 
