@@ -56,3 +56,39 @@ If we set the support threshold min-sup = 3, which of the following sequences is
 
 #### Answer  
 ![Fig 13](https://github.com/UtkarshPathrabe/Pattern-Discovery-In-Data-Mining/blob/master/Weekly%20Quizzes/Week%203/Fig13.png "Fig 13")  
+
+Question 07
+-----------  
+When we use the Apiori-based approach to find the frequent graph pattern for a candidate graph, we need to check all of its subgraphs. Given the following graph, how many distinct subgraphs with seven vertices are there?  
+![Fig 14](https://github.com/UtkarshPathrabe/Pattern-Discovery-In-Data-Mining/blob/master/Weekly%20Quizzes/Week%203/Fig14.png "Fig 14")  
+
+#### Answer  
+1  
+
+![Fig 15](https://github.com/UtkarshPathrabe/Pattern-Discovery-In-Data-Mining/blob/master/Weekly%20Quizzes/Week%203/Fig15.png "Fig 15")  
+
+Question 08
+-----------  
+In our database, we have the following three graphs:  
+![Fig 16](https://github.com/UtkarshPathrabe/Pattern-Discovery-In-Data-Mining/blob/master/Weekly%20Quizzes/Week%203/Fig16.png "Fig 16")  
+What is the support of the following graph?  
+![Fig 17](https://github.com/UtkarshPathrabe/Pattern-Discovery-In-Data-Mining/blob/master/Weekly%20Quizzes/Week%203/Fig17.png "Fig 17")  
+
+#### Answer  
+1  
+
+![Fig 18](https://github.com/UtkarshPathrabe/Pattern-Discovery-In-Data-Mining/blob/master/Weekly%20Quizzes/Week%203/Fig18.png "Fig 18")  
+
+Question 09
+-----------  
+Suppose we have learned two ranked rules as follows (the default is Type 2):  
+* `{"ipad", "iphone"}` -> Type 1  
+* `{"kindle", "iphone"}` -> Type 2  
+* `{"ipad"}` -> Type 1  
+
+For the people who have `{"kindle", "iphone"}`, which type will they be classified as by CBA algorithm?  
+
+#### Answer  
+Type 2  
+
+![Fig 19](https://github.com/UtkarshPathrabe/Pattern-Discovery-In-Data-Mining/blob/master/Weekly%20Quizzes/Week%203/Fig19.png "Fig 19")  
